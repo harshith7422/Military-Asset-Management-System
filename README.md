@@ -94,7 +94,7 @@ Built with React + Tailwind
 
 Connects to the deployed backend via REST APIs
 
-###🗄️ Database
+### 🗄️ Database
 SQLite auto-creates database.db
 
 Schema defined in schema.sql
